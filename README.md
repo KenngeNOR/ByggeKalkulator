@@ -29,6 +29,7 @@ For å kjøre denne applikasjonen lokalt, må du ha Python installert.
    
 
 **Prosjektstruktur**
+
 app.py: Hovedfilen som styrer brukergrensesnittet.
 vegg_modul.py, tak_modul.py, gulv_modul.py: Logikk for materialberegning.
 data_manager.py: Håndterer lesing/skriving til materialdatabasen.
