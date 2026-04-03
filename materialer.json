@@ -1,0 +1,485 @@
+{
+    "48x98_gran": {
+        "pris": 40.05,
+        "tilgjengelige_l": [
+            3600,
+            4200,
+            2700,
+            5400
+        ],
+        "butikker": {
+            "Byggmax": 40.05,
+			"Standard": 40.05
+        }
+    },
+    "48x98_gran_kort": {
+        "pris": 38.75,
+        "tilgjengelige_l": [
+            2400,
+            2500,
+            2700
+        ],
+        "butikker": {
+            "Standard": 38.75
+        }
+    },
+    "48x98_impr": {
+        "pris": 29.9,
+        "tilgjengelige_l": [
+            3600,
+            3900,
+            4200,
+            5400
+        ],
+        "butikker": {
+            "Standard": 29.9
+        }
+    },
+    "48x148_gran": {
+        "pris": 62.4,
+        "tilgjengelige_l": [
+            2700,
+            4200,
+            4500,
+            5100
+        ],
+        "butikker": {
+            "Standard": 62.4
+        }
+    },
+    "48x148_impr": {
+        "pris": 44.85,
+        "tilgjengelige_l": [
+            3300,
+            3900,
+            4200,
+            4500,
+            5100
+        ],
+        "butikker": {
+            "Standard": 44.85
+        }
+    },
+    "48x198_impr": {
+        "pris": 62.9,
+        "tilgjengelige_l": [
+            3300,
+            3900,
+            4500
+        ],
+        "butikker": {
+            "Standard": 62.9
+        }
+    },
+    "48x198_gran": {
+        "pris": 78.85,
+        "tilgjengelige_l": [
+            4200,
+            2700,
+            5400
+        ],
+        "butikker": {
+            "Standard": 78.85
+        }
+    },
+    "kledning_19x148_impr": {
+        "pris": 50.35,
+        "l": [
+            3900,
+            4500,
+            5400
+        ],
+        "b": 148,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 50.35
+        }
+    },
+    "kledning_19x148_gran": {
+        "pris": 38.1,
+        "l": [
+            3600,
+            4200,
+            4500,
+            5400
+        ],
+        "b": 148,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 38.1
+        }
+    },
+    "kledning_19x148_hvitgrunnet": {
+        "pris": 47.95,
+        "l": [
+            3600,
+            4200,
+            5400
+        ],
+        "b": 148,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 47.95
+        }
+    },
+    "kledning_19x148_dobbelfals_hvitgrunnet": {
+        "pris": 52.45,
+        "l": [
+            2700,
+            5400
+        ],
+        "b": 148,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 52.45
+        }
+    },
+    "kledning_19x148_dobbelfals_gran": {
+        "pris": 50.8,
+        "l": [
+            2700,
+            5400
+        ],
+        "b": 148,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 50.8
+        }
+    },
+    "kledning_19x123_gran": {
+        "pris": 32.75,
+        "l": [
+            3600
+        ],
+        "b": 123,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 32.75
+        }
+    },
+    "kledning_19x123_hvitgrunnet": {
+        "pris": 48.65,
+        "l": [
+            3600,
+            4200
+        ],
+        "b": 123,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 48.65
+        }
+    },
+    "kledning_16x98_gran": {
+        "pris": 23.2,
+        "l": [
+            4200,
+            5400
+        ],
+        "b": 98,
+        "t": 16,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 23.2
+        }
+    },
+    "kledning_16x98_impr": {
+        "pris": 28.4,
+        "l": [
+            4800,
+            5100
+        ],
+        "b": 98,
+        "t": 16,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 28.4
+        }
+    },
+    "kledning_19x98_gran": {
+        "pris": 27.95,
+        "l": [
+            2700,
+            5400
+        ],
+        "b": 98,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 27.95
+        }
+    },
+    "kledning_19x98_impr": {
+        "pris": 30.85,
+        "l": [
+            4800,
+            5100
+        ],
+        "b": 98,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 30.85
+        }
+    },
+    "kledning_19x98_hvitgrunnet": {
+        "pris": 40.25,
+        "l": [
+            3600,
+            4500
+        ],
+        "b": 98,
+        "t": 19,
+        "overlapp": 28,
+        "butikker": {
+            "Standard": 40.25
+        }
+    },
+    "gips_standard": {
+        "pris": 139.0,
+        "l": 2400,
+        "b": 1200,
+        "t": 12.5,
+        "butikker": {
+            "Standard": 139.0
+        }
+    },
+    "gips_standard_eu": {
+        "pris": 128.0,
+        "l": 2400,
+        "b": 1200,
+        "t": 12.5,
+        "butikker": {
+            "Standard": 128.0
+        }
+    },
+    "gips_standard_lang": {
+        "pris": 179.0,
+        "l": 2500,
+        "b": 1200,
+        "t": 12.5,
+        "butikker": {
+            "Standard": 179.0
+        }
+    },
+    "spon_vegg": {
+        "pris": 285.0,
+        "l": 2390,
+        "b": 1220,
+        "t": 12,
+        "butikker": {
+            "Standard": 285.0
+        }
+    },
+    "spon_gulv_22mm": {
+        "pris": 195.0,
+        "l": 1820,
+        "b": 620,
+        "t": 22,
+        "butikker": {
+            "Standard": 195.0
+        }
+    },
+    "spon_gulv_22mm_fuktbestandig": {
+        "pris": 359.0,
+        "l": 1800,
+        "b": 600,
+        "t": 22,
+        "butikker": {
+            "Standard": 359.0
+        }
+    },
+    "osb_plate_15mm": {
+        "pris": 229.0,
+        "l": 2397,
+        "b": 600,
+        "t": 15,
+        "butikker": {
+            "Standard": 229.0
+        }
+    },
+    "osb_plate_18mm": {
+        "pris": 399.0,
+        "l": 2400,
+        "b": 600,
+        "t": 18,
+        "butikker": {
+            "Standard": 399.0
+        }
+    },
+    "asfaltplate": {
+        "pris": 309.0,
+        "l": 2740,
+        "b": 1200,
+        "t": 12,
+        "butikker": {
+            "Standard": 309.0
+        }
+    },
+    "isolasjon_ursa_50mm": {
+        "pris": 547.0,
+        "m2_pakke": 13.68,
+        "t": 50,
+        "butikker": {
+            "Standard": 547.0
+        }
+    },
+    "isolasjon_ursa_100mm": {
+        "pris": 547.0,
+        "m2_pakke": 6.84,
+        "t": 100,
+        "butikker": {
+            "Standard": 547.0
+        }
+    },
+    "isolasjon_ursa_150mm": {
+        "pris": 471.5,
+        "m2_pakke": 4.1,
+        "t": 150,
+        "butikker": {
+            "Standard": 471.5
+        }
+    },
+    "isolasjon_ursa_200mm": {
+        "pris": 424.7,
+        "m2_pakke": 2.74,
+        "t": 200,
+        "butikker": {
+            "Standard": 424.7
+        }
+    },
+    "fuktspere_020_25m": {
+        "pris": 899.0,
+        "l": 25,
+        "b": 2700,
+        "t": 0.2,
+        "butikker": {
+            "Standard": 899.0
+        }
+    },
+    "fuktspere_015_15m": {
+        "pris": 449.0,
+        "l": 15,
+        "b": 2600,
+        "t": 0.15,
+        "butikker": {
+            "Standard": 449.0
+        }
+    },
+    "vindpapp_rull": {
+        "pris": 469.0,
+        "l": 25,
+        "b": 1400,
+        "t": 0.2,
+        "butikker": {
+            "Standard": 469.0
+        }
+    },
+    "sløyfer_23x48": {
+        "pris": 14.7,
+        "tilgjengelige_l": [
+            3600,
+            4500,
+            2700,
+            5400
+        ],
+        "butikker": {
+            "Standard": 14.7
+        }
+    },
+    "lekter_30x48": {
+        "pris": 16.85,
+        "tilgjengelige_l": [
+            3600,
+            3900,
+            4200
+        ],
+        "butikker": {
+            "Standard": 16.85
+        }
+    },
+    "vindski_19x148_impr": {
+        "pris": 50.35,
+        "tilgjengelige_l": [
+            3900,
+            4500
+        ],
+        "butikker": {
+            "Standard": 50.35
+        }
+    },
+    "vannbord_19x98_impr": {
+        "pris": 30.85,
+        "tilgjengelige_l": [
+            4800,
+            5100
+        ],
+        "butikker": {
+            "Standard": 30.85
+        }
+    },
+    "takshingel_svart": {
+        "pris": 447.0,
+        "m2_pakke": 3,
+        "butikker": {
+            "Standard": 447.0
+        }
+    },
+    "taksteinsplate_stål": {
+        "pris": 40.0,
+        "m2_pris": 40.0,
+        "butikker": {
+            "Standard": 40.0
+        }
+    },
+    "takfotbeslag_2m": {
+        "pris": 259.0,
+        "l": 2000,
+        "butikker": {
+            "Standard": 259.0
+        }
+    },
+    "mønebeslag_2m": {
+        "pris": 479.0,
+        "l": 2000,
+        "butikker": {
+            "Standard": 479.0
+        }
+    },
+    "fuglelist_stopp": {
+        "pris": 69.95,
+        "l": 1000,
+        "butikker": {
+            "Standard": 69.95
+        }
+    },
+    "takstein_betong_sort": {
+        "pris": 19.9,
+        "enh": "stk",
+        "dekning_m2": 8.9,
+        "butikker": {
+            "Standard": 19.9
+        }
+    },
+    "taksteinsplate_stal": {
+        "pris": 299.0,
+        "enh": "m2",
+        "butikker": {
+            "Standard": 299.0
+        }
+    },
+    "taktro_spon_18mm": {
+        "pris": 399.0,
+        "l": 2400,
+        "b": 600,
+        "butikker": {
+            "Standard": 399.0
+        }
+    }
+}
