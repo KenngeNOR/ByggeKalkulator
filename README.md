@@ -1,4 +1,5 @@
 # 🏗️ ByggKalkulator v1.0
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://byggekalkulator.streamlit.app/)
 
 En interaktiv web-applikasjon bygget med **Streamlit**, med god hjelp av Gemini for nøyaktig beregning av materialbehov og kostnader ved oppføring av enkle trekonstruksjoner (vegg, gulv og tak).
 
