@@ -15,7 +15,7 @@ For å kjøre denne applikasjonen lokalt, må du ha Python installert.
 
 1. **Klone repoet:**
    ```bash
-   git clone [https://github.com/KenngeNOR/ByggeKalkulator.git](https://github.com/KenngeNOR/ByggeKalkulator.git)
+   git clone https://github.com/KenngeNOR/ByggeKalkulator.git
    cd ByggKalkulator
    
 2. **Installer avhengigheter:**
