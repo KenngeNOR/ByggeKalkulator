@@ -168,6 +168,7 @@ with tab3:
     
     if alle_varer:
         df = pd.DataFrame(alle_varer)
+        df['Mengde'] = df['Mengde'].astype(int)
         
         # Sjekk etter varer med 0 kr (potensielle feil i databasen)
         mangler_pris = df[df['Pris'] == 0]
